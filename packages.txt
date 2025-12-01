@@ -1,4 +1,6 @@
-libopenblas-dev
-gfortran
-cmake
 build-essential
+cmake
+gfortran
+libopenblas-dev
+liblapack-dev
+pkg-config
