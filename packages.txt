@@ -1,0 +1,4 @@
+libopenblas-dev
+gfortran
+cmake
+build-essential
